@@ -1,4 +1,4 @@
-Este projete é uma calculadora
+Este projeto é uma calculadora
 
 Tecnologias utilizadas:
 
